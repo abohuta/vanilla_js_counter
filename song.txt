@@ -2,3 +2,7 @@ some text
 some line
 3d line
 4th line
+
+add 6 and
+7th line
+

@@ -1,3 +1,1 @@
-# git-andrii
-
-some content
+# JS counter page
